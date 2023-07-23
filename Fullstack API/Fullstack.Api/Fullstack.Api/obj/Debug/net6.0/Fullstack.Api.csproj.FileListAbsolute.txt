@@ -1,0 +1,136 @@
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\appsettings.Development.json
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\appsettings.json
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Fullstack.Api.exe
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Fullstack.Api.deps.json
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Fullstack.Api.runtimeconfig.json
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Fullstack.Api.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Fullstack.Api.pdb
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Humanizer.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.csproj.AssemblyReference.cache
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.AssemblyInfoInputs.cache
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.AssemblyInfo.cs
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.csproj.CoreCompileInputs.cache
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets\msbuild.Fullstack.Api.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Fullstack.Api.props
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fullstack.Api.props
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fullstack.Api.props
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\scopedcss\bundle\Fullstack.Api.styles.css
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.csproj.CopyComplete
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\refint\Fullstack.Api.dll
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.pdb
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.genruntimeconfig.cache
+F:\ASP.NET(Core)\ASp.Net Crud With Anguler\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\ref\Fullstack.Api.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Fullstack.Api.exe
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Fullstack.Api.deps.json
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Fullstack.Api.runtimeconfig.json
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Fullstack.Api.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Fullstack.Api.pdb
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.csproj.AssemblyReference.cache
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.AssemblyInfoInputs.cache
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.AssemblyInfo.cs
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.csproj.CoreCompileInputs.cache
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets\msbuild.Fullstack.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Fullstack.Api.props
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fullstack.Api.props
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fullstack.Api.props
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\scopedcss\bundle\Fullstack.Api.styles.css
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.csproj.CopyComplete
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\refint\Fullstack.Api.dll
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.pdb
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\Fullstack.Api.genruntimeconfig.cache
+C:\Users\firoz\OneDrive\Desktop\UI\Fullstack API\Fullstack.Api\Fullstack.Api\obj\Debug\net6.0\ref\Fullstack.Api.dll
